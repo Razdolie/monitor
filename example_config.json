@@ -1,0 +1,27 @@
+{
+    "ФайлЛога": "logs.txt",
+    "Проверки":{
+        "ПроверкаДисков": {
+            "Использовать": true,	
+            "Диски": ["C", "D"],
+            "Порог": 20
+        }
+    },
+    "Уведомления":{
+        "Почта":{
+            "Использовать": false,
+            "Сервер": "smtp.example.com",
+            "Порт": 587,
+            "Логин": "your-email@example.com",
+            "Пароль": "your-email-password",
+            "ИспользоватьSSL": true,
+            "Отправитель": "sender@example.com",
+            "Получатели": ["recipient1@example.com", "recipient2@example.com"]
+        },
+        "Телеграм":{
+            "Использовать": true,
+            "Токен": "your-telegram-bot-token",
+            "Получатели": ["chat1-id", "chat2-id"]
+        }
+    }
+}
