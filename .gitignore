@@ -3,3 +3,6 @@
 config.json
 logos.cfg
 logs.txt
+
+*.exe
+*.ospx
