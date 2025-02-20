@@ -1,3 +1,9 @@
+[![Stars](https://img.shields.io/github/stars/Razdolie/monitor.svg?label=Github%20%E2%98%85&a)](https://github.com/Razdolie/monitor/stargazers)
+[![Release](https://img.shields.io/github/v/release/Razdolie/monitor?include_prereleases&label=last%20release&style=badge)](https://github.com/Razdolie/monitor/releases/latest)
+[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.org/data/badges/6/909930936.json)](https://openyellow.org/grid?data=top&repo=909930936)
+
+[razdolie.github.io/dev-rules](https://razdolie.github.io/dev-rules/)
+
 # monitor
 
 > Библиотека разработана в рамках мастер-класса "[От базовой библиотеки до полного расцвета с ОСенью. Разработка базовой версии](https://infostart.ru/1c/articles/2275659/)"

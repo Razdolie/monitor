@@ -34,7 +34,7 @@
 КонецФункции
 
 Функция ДанныеСистемы(ТекстЗапроса) Экспорт
-   
+
 	WMI = Новый COMОбъект("WbemScripting.SWbemLocator");
     Сервис = WMI.ConnectServer(".", "root\cimv2");
     Результат = Сервис.ExecQuery(ТекстЗапроса);
